@@ -1,0 +1,6 @@
+models.pyc
+__pycache__/
+data/cifar10-py
+data/mnist
+tmp/
+nohup.out
